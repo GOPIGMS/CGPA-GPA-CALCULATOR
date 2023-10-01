@@ -53,6 +53,8 @@ The script also provides interpretation based on your GPA or CGPA:
 5. Run the script using `python script_name.py` (replace `script_name.py` with the actual script filename).
 
 
-Author
-GOPI G
+## Author
+**GOPI G**
+
+
 Feel free to modify, use, and distribute this script as needed for your GPA and CGPA calculations. Enjoy calculating your grades!
